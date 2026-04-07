@@ -15,10 +15,13 @@
 <br>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; What really motivates me is the intersection between these two worlds. I’m always looking for ways to combine &nbsp;&nbsp;&nbsp;&nbsp; creativity and technology to build solutions that are not only functional, but also thoughtful and user-centered.
 
-<h3>🔗 Connect with me</h3>
-<a href="https://seu-linkedin">
-  <img src="seu-botao-custom.png" height="40">
-</a>
-
-
-
+<h3>🔗 Connect with me</h3></svg>
+<p>
+  <a href="https://seu-linkedin](https://www.linkedin.com/in/let%C3%ADcia-naves-silva/">
+    <img src="https://github.com/user-attachments/assets/6e5e96c4-ba91-49dd-adf2-44b7b49f1212" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:navessilvaleticia@gmail.com">
+    <img src="https://github.com/user-attachments/assets/42d139b3-57a4-405e-893c-ec4d67bc182c" height="40"/>
+  </a>
+</p>
