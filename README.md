@@ -17,11 +17,11 @@
 
 <h3>🔗 Connect with me</h3></svg>
 <p>
-  <a href="https://seu-linkedin](https://www.linkedin.com/in/let%C3%ADcia-naves-silva/">
-    <img src="https://github.com/user-attachments/assets/6e5e96c4-ba91-49dd-adf2-44b7b49f1212" height="40"/>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-naves-silva/">
+    <img src="https://github.com/user-attachments/assets/42d139b3-57a4-405e-893c-ec4d67bc182c" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:navessilvaleticia@gmail.com">
-    <img src="https://github.com/user-attachments/assets/42d139b3-57a4-405e-893c-ec4d67bc182c" height="40"/>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=navessilvaleticia@email.com" target="_blank">
+   <img src="https://github.com/user-attachments/assets/6e5e96c4-ba91-49dd-adf2-44b7b49f1212" height="40"/>
   </a>
 </p>
