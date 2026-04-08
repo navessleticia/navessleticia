@@ -1,6 +1,6 @@
 <h1 align= "center">Hello, i'm Letícia👋</h1>
 <p align= "center">Software Engineering Student • UI/UX</p>
-<h3>👾Language and Tools</h3>
+<h3>👾Languages and Tools</h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
